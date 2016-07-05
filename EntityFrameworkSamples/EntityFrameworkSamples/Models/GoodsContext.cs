@@ -15,6 +15,8 @@ namespace EntityFrameworkSamples.Models
 
         public DbSet<Clothing> Clothing { get; set; }
 
+        public DbSet<SerialNumber> SerialNumbers { get; set; }
+
         public GoodsContext()
             : base("GoodsContext") // connectionString's name
         {

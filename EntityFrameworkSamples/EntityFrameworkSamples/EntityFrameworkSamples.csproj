@@ -69,6 +69,7 @@
     <Compile Include="Models\Clothing.cs" />
     <Compile Include="Models\GoodsContext.cs" />
     <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\SerialNumber.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
